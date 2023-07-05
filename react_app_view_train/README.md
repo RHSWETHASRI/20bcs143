@@ -1,1 +1,0 @@
-# trail_details_react
